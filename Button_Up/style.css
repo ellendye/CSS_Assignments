@@ -1,0 +1,31 @@
+.search {
+    padding: 10px;
+}
+.search button {
+    background-color: rgba(178, 226, 226, 0.226);
+    border-radius: 20px;
+    padding: 2px 40px;
+    border: solid rgb(48, 175, 175) 1px;
+    color: rgb(48, 175, 175);
+    font-weight: bolder;
+}
+.plus {
+    padding-left: 10px;
+}
+.plus button {
+    border-radius: 50%;
+    border: none;
+    color: white;
+    background-color: rgb(104, 228, 186);
+}
+.createAccount {
+    padding: 10px;
+}
+.createAccount button {
+    background-color: cornflowerblue;
+    color: white;
+    border: 1px solid black;
+    box-shadow: 2px 2px black;
+    font-weight: lighter;
+    padding: 3px 30px;
+}
