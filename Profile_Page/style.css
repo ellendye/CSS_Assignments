@@ -37,7 +37,7 @@
     text-decoration: none;
     color: white;
 }
-.active {
+.profile {
     font-weight: bold;
 }
 .btn {
@@ -283,7 +283,7 @@
     margin-bottom: 10px;
 }
 
-.viewMore {
+#viewMore {
     border: rgba(128, 128, 128, 0.788) solid 2px;
     border-top: none;
 }
