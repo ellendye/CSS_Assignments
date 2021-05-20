@@ -17,6 +17,7 @@
     align-items: center;
     justify-content: space-between;
     padding: 0 20%;
+    z-index: 10;
 }
 
 .nav-links {
@@ -45,6 +46,11 @@
     color: white;
     padding: 0 .5em;
     border: none;
+    transition: all 150ms ease-in-out;
+}
+
+.btn:hover {
+    transform: scale(1.2);
 }
 
 /* Container settings for all body content */
@@ -172,6 +178,8 @@
     border-radius: 50%;
     flex: 1;
 }
+
+
 
 #todd {
     background-image: url(todd-s.jpg);
